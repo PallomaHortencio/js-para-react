@@ -8,6 +8,7 @@
  - Declaração e uso de funções (nomeadas e arrow function)
  - Template Literals (Strings)
  - Módulos externos (importação e exportação)
+ - Classes (Propreidades e Métodos usando Orientação a Objetos)
 
 ## Sites úteis
 - https://www.w3schools.com/js/js_versions.aps
