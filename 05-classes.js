@@ -53,3 +53,12 @@ aluno.curso = 'JS para React';
 
 //console.log(aluno);
 aluno.mostraDados();
+
+
+/* Exercício 
+- Crie uma nova propriedade chamada idade (para qualquer pessoa)
+- Crie um método para checar a idade verificando se é maior ou menor de idade. Se for, retorna "maior". Senão, retorna "menor".*/
+
+class exercicio {
+    idade = 21
+}
