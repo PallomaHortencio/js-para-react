@@ -9,9 +9,17 @@
  - Template Literals (Strings)
  - Módulos externos (importação e exportação)
  - Classes (Propreidades e Métodos usando Orientação a Objetos)
+ 
  - Operador ... (spread ou rest)
    - spread (espalhar): usado para dividir elementos de um array ou propriedades de um objeto
    - rest (resto, sobra, resídio): usado para mesclar uma listra de parâmetros de uma função como um array
+
+ - Métodos/Funções para array
+   - map
+   - filter
+   - reduce
+
+ - async/await (sintaxe para comunicação assincrona [ajax])
 
 ## Sites úteis
 - https://www.w3schools.com/js/js_versions.aps
